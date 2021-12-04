@@ -11,10 +11,10 @@ h1 {
 }
 
 p {
-  color: red;
+  color: rgb(184, 3, 3);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 160%;
-  border: 2px solid magenta;
+  border: 2px solid rgb(107, 34, 107);
   padding: 30px;
   margin: 50px;
 }
