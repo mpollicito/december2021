@@ -1,5 +1,5 @@
 body {
-  background-color: darkcyan ;
+  background-color: darkcyan;
   margin: 50px;
 }
 
@@ -23,4 +23,8 @@ a {
   font-size: 160%;
   padding: 15px;
   margin: 50px;
+}
+
+.roundrect {
+  border-radius: 15px;
 }
