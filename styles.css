@@ -58,6 +58,10 @@ img.card-img-top {
   border-radius: 25px;
 }
 
+img {
+  border-radius: 25px;
+}
+
 #portfolio {
   color: white;
 }
@@ -65,6 +69,11 @@ img.card-img-top {
 /* body {
   background-color: darkcyan;
   margin: 50px;
+}
+
+img.roundrect {
+  outline-color: darkcyan;
+  outline: 10px;
 }
 
 .img {
