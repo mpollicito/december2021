@@ -18,6 +18,7 @@ p {
 }
 
 a {
+  color: var(--bs-blue);
   font-size: 160%;
   padding: 15px;
   margin: 50px;
@@ -71,9 +72,8 @@ img-fluid {
   color: white;
 }
 
-/* body {
-  background-color: darkcyan;
-  margin: 50px;
+body {
+  font: 1rem/1.5 var(--bs-font-sans-serif);
 }
 
 img.roundrect {
@@ -90,4 +90,4 @@ h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 300%;
   margin: 50px;
-} */
+}
